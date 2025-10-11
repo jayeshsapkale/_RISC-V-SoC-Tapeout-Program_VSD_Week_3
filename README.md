@@ -7,4 +7,4 @@
 ---
 
 
-* [Part 1 – Gate-Level Simulation (GLS)](week3_Part1.md)
+* [Part 1 – Gate-Level Simulation (GLS)](Week3_Part1.md)
