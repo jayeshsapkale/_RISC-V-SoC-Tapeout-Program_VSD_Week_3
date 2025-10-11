@@ -7,4 +7,7 @@
 ---
 
 
-* [Part 1 – Gate-Level Simulation (GLS)](Week3_Part1.md)
+* [Part 1 – Post-Synthesis GLS](Week3_Part1.md)
+* [Part 2 – Fundamentals of STA (Static Timing Analysis) ](Week3_Part2.md)
+* [Part 3 – Generate Timing Graphs with OpenSTA](Week3_Part3.md)
+
